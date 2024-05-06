@@ -8,7 +8,9 @@ Você deve criar uma página extra no seu currículo / portfólio para demonstra
 ## Technologies used
 
 Html.
+
 CSS.
+
 JavaScript.
 
 ## Authors
